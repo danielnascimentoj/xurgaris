@@ -25,7 +25,7 @@
 a{color: #fff;text-decoration: none;}
 /* ------ X ------ */
 /* Hovers */
-#bot:hover,a:hover, #instagram:hover{filter: brightness(40%);cursor: pointer;}
+#bot:hover,a:hover, #instagram:hover{filter: brightness(70%);cursor: pointer;}
 
 /* --------------  */
 body{font-family: Verdana, Geneva, Tahoma, sans-serif;}

@@ -22,13 +22,12 @@
     border-radius: 20px;
 }
 
-#bot:hover {
-    filter: brightness(40%);
-}
-
+a{color: #fff;text-decoration: none;}
 /* ------ X ------ */
+/* Hovers */
+#bot:hover,a:hover, #instagram:hover{filter: brightness(40%);}
 
-
+/* --------------  */
 body{font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
 header {
@@ -89,7 +88,8 @@ header {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding-bottom: 90px;
+    
+    height: auto;
     gap: 20px;
 }
 
@@ -139,13 +139,22 @@ header {
     width: 100%;
     gap: 20px;
     flex-direction: column;
-
-
-
 }
 
-.bodyson-I{
+.bodysonD-I{
     display: flex;
     flex-direction: column;
     background-color: #fff;;
+}
+
+.main-E{
+    background-color: #000000;
+    margin-top: 100px;
+    display: flex;
+    height: 200px;
+    width: 100%;
+    align-items: center;
+    color: #fff;
+
+    justify-content: space-between;
 }

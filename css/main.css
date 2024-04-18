@@ -41,6 +41,7 @@ header {
 
 .main-cabecalho {
     border: solid 0px #000;
+    background-color: #fff;
     display: flex;
     position: fixed;
     gap: 60px;

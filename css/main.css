@@ -32,22 +32,21 @@
 body{font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
 header {
-    background-color: #fff;
-    position: fixed;
-    align-items: center;
-    margin-top: -130px;
-    margin-left: 306px;
-    width: 60%;
+    display: flex;
+    width: 50%;
     border-radius: 20px;
+    margin: auto;
+    justify-content: center;
 }
 
 .main-cabecalho {
     border: solid 0px #000;
     display: flex;
+    position: fixed;
     gap: 60px;
-    width: 95%;
+    width: 50%;
     padding: 5px;
-    border-radius: 10px;
+    border-radius: 20px;
     align-items: center;
     justify-content: space-around;
 }

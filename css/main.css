@@ -1,10 +1,10 @@
 /* IMAGENS */
 #logo {
-    height: 100px;
+    height: 80px;
 }
 
 #banner {
-    height: 400px;
+    height: 300px;
 }
 
 /* ------ X ------ */
@@ -18,7 +18,7 @@
     padding-right: 30px;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-size: 20px;
+    font-size: 15px;
     border-radius: 20px;
 }
 
@@ -29,19 +29,20 @@
 /* ------ X ------ */
 
 
-
+body{font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
 header {
     background-color: #fff;
     position: fixed;
     align-items: center;
     margin-top: -130px;
-    margin-left: 26px;
-    width: 100%;
+    margin-left: 306px;
+    width: 60%;
+    border-radius: 20px;
 }
 
 .main-cabecalho {
-    border: solid 1px #000;
+    border: solid 0px #000;
     display: flex;
     gap: 60px;
     width: 95%;
@@ -82,7 +83,7 @@ header {
 }
 
 .main-conteudo {
-    border: solid 1px #0ec7ff;
+    border: solid 0px #0ec7ff;
     margin-top: 70px;
     display: flex;
     align-items: center;
@@ -123,7 +124,7 @@ header {
 .bodysonC-I,.bodysonC-II,.bodysonC-III{
     background-color: #ebe9e9;
     display: flex;
-    height: 90%;
+    height: 50%;
     width: 350px;
 
 }

@@ -420,10 +420,13 @@
 
     /* ------ X ------ */
     /* Hovers */
-    #bot:hover,
+    #bot:hover{
+        filter: brightness(90%);
+        cursor: pointer;
+    }
     a:hover{
         filter: brightness(70%);
-        cursor: pointer;
+        color: #ebe9e9;
     }
     #instagram:hover{
         cursor: pointer;

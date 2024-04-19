@@ -559,8 +559,8 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: center;
-        margin-left: 300px;
+        justify-content: space-between;
+        margin-left: 140px;
     }
 
     .main-E{

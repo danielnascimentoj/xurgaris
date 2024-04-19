@@ -93,13 +93,16 @@
     font-size: 20px;
 }
 #son-descricao{
-    font-size: 20px; text-align: justify;
+    font-size: 18px; 
+    text-align: justify;
 }
 #son-termos{
     color: rgb(41, 32, 229);
+    font-size: 17px;
 }
 #termos-son{
     color: rgb(41, 122, 215);
+    font-size: 17px;
 }
 #datadia{
     font-size: 15px; 

@@ -90,6 +90,7 @@
   /* ID */
 #main-titulo{
     text-align: center;
+    font-size: 15px;
 }
 #son-descricao{
     font-size: 20px; text-align: justify;

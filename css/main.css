@@ -393,13 +393,9 @@
     #banner3{
         height: 330px;
     }
-    #logowhats {
-        height: 50px;
-        width: 50px;
-    }
     #instagram{
-        height: 50px;
-        width: 50px;
+        height: 35px;
+        width: 34px;
     }
 
     /* ------ X ------ */
@@ -611,5 +607,10 @@
         align-items: center;
         justify-content: space-between;
     }
+
+    #contato{
+        font-size: 15px;
+    }
+
     
 }

@@ -421,7 +421,7 @@
     /* ------ X ------ */
     /* Hovers */
     #bot:hover{
-        filter: brightness(90%);
+        filter: brightness(70%);
         cursor: pointer;
     }
     a:hover{

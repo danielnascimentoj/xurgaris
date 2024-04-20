@@ -35,7 +35,7 @@ a {
     cursor: pointer;
 }
 
-a:hover {
+a:hover{
     filter: brightness(70%);
     color: #ebe9e9;
 }
@@ -43,6 +43,10 @@ a:hover {
 #instagram:hover {
     cursor: pointer;
     filter: contrast(5%);
+}
+#btTermos{
+    color: #ebe9e9;
+    cursor: pointer;
 }
 
 /* --------------  */
@@ -95,9 +99,5 @@ header {
 }
 
 #btTermos{
-    background: none;
-    border: none;
-    font-size: 17px;
-    margin-bottom:-7px;
     color: #d00909;
 }

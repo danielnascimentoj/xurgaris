@@ -101,3 +101,21 @@ header {
 #btTermos{
     color: #d00909;
 }
+
+.main-G {
+    background-color: #ebe9e9;
+    color: #000000;
+    margin-top: 50px;
+    display: flex;
+    height: 220px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#contato{
+    font-size: 20px;
+}
+
+
+}
